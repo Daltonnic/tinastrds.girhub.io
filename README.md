@@ -1,2 +1,2 @@
-# tinastrds.girhub.io
+# tinastrds.github.io
 stonks site
